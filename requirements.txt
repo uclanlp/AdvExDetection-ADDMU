@@ -1,0 +1,13 @@
+alpaca==1.0.0
+alpaca_ml==0.9.2
+datasets==1.11.0
+matplotlib==3.5.1
+numpy==1.18.5
+pandas==1.5.3
+scikit_learn==1.2.1
+seaborn==0.11.2
+spacy==3.3.0
+textattack==0.3.3
+torch==1.8.1
+tqdm==4.49.0
+transformers==4.26.0
